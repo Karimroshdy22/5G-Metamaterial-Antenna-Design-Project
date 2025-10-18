@@ -29,7 +29,13 @@ All project materials are hosted on Google Drive for easy access:
 - [🎥 Demo Video](https://drive.google.com/file/d/1AQyq0Ui0XTN_9hNmC7eTIf2iJESKLBIB/view?usp=sharing)
 
 ## 👥 Team Members
-Ahmed Elgohary, Shawky Elmahdy, Karim Mohamed, Hazem Etman Elgalad, Hazem M. Fathy, Adel Mohamed
+Karim Roshdy 
+Ahmed Elgohary
+Shawky Elmahdy
+Karim Mohamed
+Hazem Etman 
+Hazem Fathy
+Adel Mohamed
 
 ## 🧠 Supervised by
 Dr. Bahaa Younes, PhD – Electronics and Communications Engineering Department.
